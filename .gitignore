@@ -1,0 +1,28 @@
+# Archivos generados por el proyecto (no subir a GitHub)
+sp500_tickers.csv
+backtest_resultados.xlsx
+retornos_por_ticker.xlsx
+metricas_top20_corregidas.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+ENV/
+.venv/
+
+# IDE / editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Otros
+.DS_Store
+Thumbs.db
+*.log
